@@ -46,30 +46,30 @@ git clone https://github.com/your-username/watsonx-rag-qnabot.git
 cd watsonx-rag-qnabot
 ```
 
-# Create a virtual environment
+#### Create a virtual environment
 ```bash
 pip install virtualenv
 virtualenv .venv
 ```
 
-# Or Simply use
+#### Or Simply use
 ```bash
 python -m venv .venv 
 ```
 
 ### 2. Create a Virtual Environment and Install Dependencies
 
-# Activate it (macOS/Linux)
+#### Activate it (macOS/Linux)
 ```bash
 source .venv/bin/activate
 ```
 
-# Activate it (Windows)
+#### Activate it (Windows)
 ```bash
 .venv\Scripts\activate
 ```
 
-# Install all required packages
+#### Install all required packages
 ```bash
 pip install -r requirements.txt
 ```
