@@ -12,3 +12,4 @@ accelerate
 bitsandbytes
 scipy
 sentence-transformers==2.5.1
+python-dotenv
