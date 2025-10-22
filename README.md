@@ -44,7 +44,16 @@ Follow these steps to set up and run the project on your local machine.
 ```bash
 git clone https://github.com/your-username/watsonx-rag-qnabot.git
 cd watsonx-rag-qnabot
+```
+
 # Create a virtual environment
+```bash
+pip install virtualenv
+virtualenv .venv
+```
+
+# Or Simply use
+```bash
 python -m venv .venv 
 ```
 
