@@ -30,15 +30,15 @@ Credits - Image Generated using Gemini AI.
 ---
 
 ## 📦 Requirements
-python 3.11
-gradio==4.44.0 
-ibm-watsonx-ai==1.1.2 
-langchain==0.2.11 
-langchain-community==0.2.10 
-langchain-ibm==0.1.11 
-chromadb==0.4.24 
-pypdf==4.3.1 
-pydantic==2.9.1
+python 3.11  
+gradio==4.44.0   
+ibm-watsonx-ai==1.1.2   
+langchain==0.2.11   
+langchain-community==0.2.10   
+langchain-ibm==0.1.11   
+chromadb==0.4.24   
+pypdf==4.3.1   
+pydantic==2.9.1  
 
 ## 🚀 How to Run Locally
 Follow these steps to set up and run the project on your local machine. 
